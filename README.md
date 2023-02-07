@@ -25,7 +25,7 @@ Internal storage	128GB, 256GB, 512GB
 ## Downloads:
   ### Version 1.0 Supports HID Support, Fast Charging, Better Battery Optimization
   
-  <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/PzYhgBiL#ppYYCn4evwHwaQA2r4xtNrwHBnLe7RWZrccUuAH_9H4) For TWRP. <br>
+  <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/GiI10ARb#550hkJhirKR3BQdnPdfSc248SY8_ELDFrWpb1HAzMAc) For TWRP. <br>
   
 ## Source Code:
   LINK: [KERNEL-SOURCE-CODE](https://github.com/mohammad92/android_kernel_samsung_exynos2100.git) -branch DVJC
